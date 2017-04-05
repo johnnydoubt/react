@@ -1,1 +1,7 @@
-kikoo
+ 
+Setup
+---
+ 
+```
+npm install
+```
